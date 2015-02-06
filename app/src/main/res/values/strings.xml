@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main page -->
+    <string name="app_name">CalculateOvertime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_goto">Button Goto</string>
+
+    <!--Overtime Detail page-->
+
+    <!--Create new overtime menu-->
+    <string name="createNew">New</string>
+
+</resources>
